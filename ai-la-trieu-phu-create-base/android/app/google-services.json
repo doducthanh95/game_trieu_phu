@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643308841806",
+    "firebase_url": "https://altp-c62d1.firebaseio.com",
+    "project_id": "altp-c62d1",
+    "storage_bucket": "altp-c62d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643308841806:android:322a054623a9a2446f0c1f",
+        "android_client_info": {
+          "package_name": "com.ailatrieuphu.ai_la_trieu_phu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643308841806-41suo4sgn331rmca8bc4iv5jmsl1l0sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFk0CnATQ3MCQrWxUHZuF1hIWHVf2Z4tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643308841806-41suo4sgn331rmca8bc4iv5jmsl1l0sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
